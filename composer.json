@@ -1,0 +1,19 @@
+{
+    "name": "lyapi/ladoc",
+    "description": "LyAPI extensions library: interface documentation is generated online",
+    "type": "Library",
+    "license": "Apache2.0",
+    "authors": [
+        {
+            "name": "xiaozhuox",
+            "email": "mrxzx@wwsg18.top"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+            "LyApi\\extend\\LADoc\\":"src"
+        }
+    },
+    "require": {}
+}
