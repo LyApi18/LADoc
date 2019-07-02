@@ -2,7 +2,7 @@
     "name": "lyapi/ladoc",
     "description": "LyAPI extensions library: interface documentation is generated online",
     "type": "Library",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "xiaozhuox",
